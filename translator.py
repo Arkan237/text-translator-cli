@@ -20,7 +20,7 @@ def resetlang():
 
 # Add Argument
 parser = argparse.ArgumentParser(description='A simple program to translate a text into another language.', prog="Text Translator CLI",
-                                 epilog="For more information, visit https://github.com/Arkan237")
+                                 epilog="For more information, visit https://github.com/Arkan237/text-translator-cli")
 parser.add_argument("--hide", help="hide translation result and save to clipboard", action='store_true')
 parser.add_argument("--setlang", "-s", help="set program language", metavar="(en,id)")
 parser.add_argument("--reset", help="reset program language settings and exit", action='store_true')
