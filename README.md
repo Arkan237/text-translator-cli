@@ -45,7 +45,7 @@ There are 2 ways to use this program. [`With Argument`](#wa) and [`Without Argum
 2. Select the language of the text you want to translate. If you don't know, choose `Auto Detect`
 3. Select target languange
 4. Enter the text you want to translate
-5. The result will be displayed in the console. if you want the result is not displayed. Use argument [`--hide`](#hide)
+5. The result will be displayed in the console. if you want the result is not displayed. Use argument [`--hide`](#wa)
 
 <h2 id="wa">With Argument</h2>
 There are 5 arguments that can be used to use this program. The following is a list of arguments that can be used and their explanations.
